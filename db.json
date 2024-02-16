@@ -1,7 +1,6 @@
 {
-  "users": {
-  "count": 3,
-  "results": [
+  "users": [
+   
         {
           "id":1,
           "username":"pepe",
@@ -17,8 +16,8 @@
           "username":"meloski",
           "deck":[1,7,12,104,6]
         }
-      ]
-  },
+    }
+  ],
   
   "cartas":[
     {
