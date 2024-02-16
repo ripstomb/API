@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "users": {
+  "count": 3,
+  "results": [
+        {
+          "id":1,
+          "username":"pepe",
+          deck:[2,8,99,110,1]
+        },
+        {
+          "id":2,
+          "username":"brevezongo",
+          deck:[5,3,23,100,4]
+        },
+        {
+          "id":3,
+          "username":"meloski",
+          deck:[1,7,12,104,6]
+        }
+      ]
+  },
+  "cartas":[
     {
-      "id": 1,
-      "title": "hello"
+      "id":1,
+      "class":"epica"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
